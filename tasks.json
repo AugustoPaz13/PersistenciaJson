@@ -1,0 +1,29 @@
+[
+  {
+    "titulo": "Comprar Huevos",
+    "descripcion": "Ir al súper y comprar una docena",
+    "estado": "PENDING",
+    "creacion": "2025-11-11T00:49:13.654Z",
+    "ultimaEdicion": "2025-11-11T00:49:13.654Z",
+    "vencimiento": null,
+    "dificultad": 1
+  },
+  {
+    "titulo": "Pasear al perro",
+    "descripcion": "Ejercitar 30 minutos",
+    "estado": "IN-PROGRESS",
+    "creacion": "2025-11-11T00:49:13.655Z",
+    "ultimaEdicion": "2025-11-11T00:49:13.655Z",
+    "vencimiento": "2025-12-01T21:00:00.000Z",
+    "dificultad": 2
+  },
+  {
+    "titulo": "Terminar práctico de BD",
+    "descripcion": null,
+    "estado": "FINISHED",
+    "creacion": "2025-11-11T00:49:13.655Z",
+    "ultimaEdicion": "2025-11-11T00:49:13.655Z",
+    "vencimiento": null,
+    "dificultad": 3
+  }
+]
